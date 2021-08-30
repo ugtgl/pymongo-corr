@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+pymongo
+pyqt5
+pyqt5-tools
+seaborn
